@@ -1,5 +1,13 @@
-1. Project Title
+1. Project Title: Python Turtle Graphics
 
-2. What is the purpose of your project or explain about your project
+2. What is the purpose of your project or explain about your project?
+The purpose of Python Turtle Graphics Project is that it aims to teach the fundamental concepts of programming
+by offering a creative and engaging way to draw and design ,making it an ideal tool for beginers 
+to not only understand key programing principles such as logic ,sequencing, and iteration,but also to
+see these concepts in action through a visual and interactive experience that encourages experimentation
+and creative expression.
 
-3. How to run your project or program
+3. How to run your project or program?
+To run a Python Turtle Graphics program, simply write your code in a Python file,
+ensure Python is installed on your system, and execute the file using an IDE or terminal,
+which will open a window where the turtle draws according to your instructions.
